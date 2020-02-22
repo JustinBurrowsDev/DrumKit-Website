@@ -1,3 +1,5 @@
+# Drum Kit
+
 # Challenges I Faced? 
 
 JavaScript has a lot of different functions, methods, syntax requirements, and capabilities and I struggle with memorizing all of the information and knowing what to use and when do use it. Thus far loops have been a  challenging concept and overall the JavaScript language seems to be an extremely massive pool of information. 
