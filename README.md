@@ -21,3 +21,5 @@ By Having the ability to do research on platforms like Google,YouTube, MDN docs,
 * Understanding DOM manipulation
 * How to bind actions to the keys on a keyboard using Javascript 
 * When to Internalize overall programming concepts
+
+![Drumkit Screen Shot](drumkit.png)
